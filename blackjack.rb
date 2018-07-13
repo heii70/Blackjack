@@ -64,7 +64,7 @@ def display_cards_and_total(cards, is_dealer=false)
  
   	puts "Dealer's Hand:" 
   	puts "Cards: #{hand_display}"
-  	puts "Real Total: #{card_total}"
+  	#puts "Real Total: #{card_total}"
   	puts "Current Total: #{card_displaytotal}\n\n"
   else
   	puts "Player's Hand:"
