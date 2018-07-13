@@ -1,0 +1,1 @@
+This folder contains a simple Blackjack game programmed in Ruby. Open a terminal window and run using "Ruby blackjack.js". Make sure you have Ruby installed on your computer.
