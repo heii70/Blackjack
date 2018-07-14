@@ -1,0 +1,4 @@
+require_relative 'blackjack.rb'
+
+blackjack = Blackjack.new
+blackjack.play
